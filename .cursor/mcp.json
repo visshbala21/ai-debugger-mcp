@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ai-debugger": {
+      "command": "node",
+      "args": ["/Users/visshwabalasubramanian/MCPexp/dist/server.js"],
+      "env": {}
+    }
+  }
+}
+
+

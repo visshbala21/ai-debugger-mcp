@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm start)",
+      "Bash(npx @modelcontextprotocol/inspector:*)",
+      "Bash(node:*)",
+      "Bash(python3:*)",
+      "Bash(mkdir:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": []
+  }
+}
